@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-#### 📑 Мои резюме и достижения:
+## 📑 Мои резюме и достижения:
 
 <p>
     <a href="https://github.com/Ilyouha852/Ilyouha852/blob/main/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
@@ -40,7 +40,7 @@
     <a href="https://github.com/Ilyouha852/Ilyouha852/blob/main/my_certificates/certificate_2.jpg" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 </p>
 
-#### 📞 Данные, чтобы связаться со мной:
+## 📞 Данные, чтобы связаться со мной:
 
 <p>
     <a href="https://t.me/ilyouhaa" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
