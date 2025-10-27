@@ -1,3 +1,14 @@
+# Привет, Я Илья
+
+Я студент по направлению "Информационные системы и технологии" в Иркутском Политехе.
+
+---
+## Обо мне
+
+- Люблю разрабатывать Backend приложения, нежели чем Frontend.
+- В свободное время занимаюсь спортом (Powerlifting, Bodybuilding, Powerbuilding, Calisthenics).
+
+
 ### Я программирую на языках:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,24 +35,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!--### Обо мне:
-- 🥇 𝙏𝙝𝙚 𝙬𝙖𝙮 𝙤𝙛 𝙨𝙪𝙘𝙘𝙚𝙨𝙨 𝙞𝙨 𝙩𝙝𝙚 𝙬𝙖𝙮 𝙤𝙛 𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙤𝙪𝙨 𝙥𝙪𝙧𝙨𝙪𝙞𝙩 𝙤𝙛 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚.
-- 🎓 𝙄𝙣 𝙖𝙣𝙮 𝙨𝙘𝙞𝙚𝙣𝙘𝙚, 𝙩𝙝𝙚𝙧𝙚 𝙞𝙨 𝙖𝙨 𝙢𝙪𝙘𝙝 𝙩𝙧𝙪𝙩𝙝 𝙖𝙨 𝙩𝙝𝙚𝙧𝙚 𝙞𝙨 𝙢𝙖𝙩𝙝𝙚𝙢𝙖𝙩𝙞𝙘𝙨 𝙞𝙣 𝙞𝙩.
-- 🤣 𝙄 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙨𝙩 𝙢𝙤𝙙𝙚𝙡𝙨 𝙗𝙚𝙘𝙖𝙪𝙨𝙚 𝙄 𝙤𝙫𝙚𝙧𝙛𝙞𝙩 𝙩𝙝𝙚𝙢.-->
 
-<!--#### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
+#### 📑 Мои резюме и достижения:
 
 <p>
-    <a href="https://github.com/Antonoof/antonoof/blob/main/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
-    <a href="https://github.com/Antonoof/my-certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://github.com/Antonoof/my-certificates/blob/main/top%203%20deepml.png" target="_blank"><img alt="Deep-ML" src="https://img.shields.io/badge/Deep-ML-00A3E0?style=for-the-badge&logo=deep-learning&logoColor=white"/></a>
-    <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
+    <a href="https://github.com/Ilyousha852/Ilyousha852/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
+    <a href="https://github.com/Ilyousha852/Ilyousha852/my-certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/Ilyousha852/my-certificates/certificate_2.jpg" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 </p>
 
-#### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙝𝙚𝙧𝙚:
+#### 📞 Данные, чтобы связаться со мной:
 
 <p>
-    <a href="https://t.me/Tem04kant" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://vk.com/antonoof" target="_blank"><img alt="VKontakte" src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white"/></a>
-    <a href="mailto:artem.antonov.cv@bk.ru" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>-->
+    <a href="https://t.me/ilyouhaa" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://vk.com/kekflexer" target="_blank"><img alt="VKontakte" src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white"/></a>
+    <a href="mailto:ilaivanov2899@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
