@@ -5,10 +5,6 @@
 ---
 ## Обо мне
 
-- Люблю разрабатывать Backend приложения, нежели чем Frontend.
-- В свободное время занимаюсь спортом (Powerlifting, Bodybuilding, Powerbuilding, Calisthenics).
-
-
 ### Я программирую на языках:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,7 +36,7 @@
 
 <p>
     <a href="https://github.com/Ilyouha852/Ilyouha852/blob/main/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
-    <a href="https://github.com/Ilyousha852/Ilyousha852/my-certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/Ilyouha852/Ilyouha852/tree/main/my_certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://github.com/Ilyouha852/Ilyouha852/blob/main/my_certificates/certificate_2.jpg" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 </p>
 
